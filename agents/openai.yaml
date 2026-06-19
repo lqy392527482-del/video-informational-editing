@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频信息化剪辑"
+  short_description: "用 HyperFrames 制作信息化口播视频剪辑"
+  default_prompt: "使用 $video-informational-editing，把我提供的底层口播视频剪成信息化知识视频。"
